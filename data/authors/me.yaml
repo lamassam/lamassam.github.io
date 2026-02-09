@@ -3,46 +3,44 @@ slug: "me"
 is_owner: true
 name:
   display: "Samantha Lamas"
-  given: "Alex"
-  family: "Johnson"
+  given: "Samantha"
+  family: "Lamas"
 postnominals: []
 status:
-  icon: "💻"
-role: "Full-Stack Developer"
+  icon: "👩‍💻"
+role: "Senior Behavioral Researcher"
 email: "alex@example.com"
-bio: "Full-stack developer with 5+ years of experience building scalable web applications.
-
-  Passionate about modern JavaScript, cloud architecture, and creating delightful user experiences.\n"
+bio: "Research and data science expert specializing in surveys, experimentation, and insights translation with the aim of delivering clear, actionable results for diverse stakeholders. "
 affiliations:
   - name: "Tech Corp"
     url: "https://techcorp.example.com"
 links:
-  - icon: "at-symbol"
-    url: "mailto:alex@example.com"
-    label: "E-mail Me"
+  - icon: "hero/at-symbol"
+    url: "mailto:lamassam21@gmail.com"
+    label: "Email"
   - icon: "brands/github"
-    url: "https://github.com/alexjohnson"
+    url: "https://github.com/lamassam"
   - icon: "brands/linkedin"
-    url: "https://www.linkedin.com/in/alexjohnson/"
-  - icon: "brands/x"
-    url: "https://x.com/alexjohnson"
+    url: "https://www.linkedin.com/in/slamas/"
 interests:
-  - "Web Development"
-  - "Cloud Architecture"
-  - "Open Source"
-  - "Developer Experience"
+  - "Experiment & Survey Design"
+  - "Quantitative/Qualitative Data Analysis"
+  - "Regression Analysis"
+  - "A/B Testing"
+  - "Consumer Insights"
+  - "Behavioral Science"
+  - "Decision Science"
 education:
-  - degree: "B.S. Computer Science"
-    institution: "State University"
-    start: "2015-09-01"
-    end: "2019-05-31"
-    summary: "Focus on software engineering and distributed systems.
-
-      Senior project on distributed caching systems.\n"
-    button:
-      text: "View Project"
-      url: "https://github.com/alexjohnson/senior-project"
-      icon: "brands/github"
+  - degree: "B.S. in Business, Finance Concentration"
+    institution: "Dominican University"
+    start: "2012"
+    end: "2016"
+    summary: ""
+  - degree: "M.S. in Data Science"
+    institution: "University of Colorado Boulder"
+    start: "2024"
+    end: ""
+    summary: ""
 experience:
   - role: "Senior Software Engineer"
     org: "Tech Corp"
