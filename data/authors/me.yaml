@@ -11,9 +11,7 @@ status:
 role: "Senior Behavioral Researcher"
 email: "alex@example.com"
 bio: "Research and data science expert specializing in surveys, experimentation, and insights translation with the aim of delivering clear, actionable results for diverse stakeholders. "
-affiliations:
-  - name: "Tech Corp"
-    url: "https://techcorp.example.com"
+affiliations: []
 links:
   - icon: "hero/at-symbol"
     url: "mailto:lamassam21@gmail.com"
@@ -67,26 +65,40 @@ experience:
 
       Participated in code reviews and agile ceremonies.\n"
 skills:
-  - name: "Development"
+  - name: "Programming & Analysis"
     items:
-      - label: "TypeScript"
-        level: 5
-      - label: "React"
-        level: 5
-      - label: "Node.js"
-        level: 5
       - label: "Python"
-        level: 4
-  - name: "DevOps"
+        level: 3
+      - label: "R"
+        level: 3
+      - label: "SQL"
+        level: 1
+  - name: "Methods"
     items:
-      - label: "Docker"
+      - label: "Experimental Design"
         level: 4
-      - label: "AWS"
+      - label: "Survey Research"
         level: 4
-      - label: "CI/CD"
+      - label: "Regression Analysis"
+        level: 3
+      - label: "ANOVA"
+        level: 3
+      - label: "NLP"
+        level: 3
+  - name: "Tools"
+    items:
+      - label: "Qualtrics"
+        level: 4
+      - label: "Prolific"
+        level: 4
+      - label: "CloudResearch"
+        level: 3
+      - label: "Microsoft Excel, PowerPoint"
         level: 5
 languages:
   - name: "English"
     level: 5
     label: "Native"
 awards: []
+ids:
+  orcid: "0000-0002-6679-1218"
