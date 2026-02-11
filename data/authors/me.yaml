@@ -40,30 +40,21 @@ education:
     end: ""
     summary: ""
 experience:
-  - role: "Senior Software Engineer"
-    org: "Tech Corp"
-    start: "2023-01-01"
-    summary: "Lead development of microservices architecture serving 1M+ users.
-
-      Improved API response time by 40% through optimization.
-
-      Mentored team of 5 junior developers.\n"
-  - role: "Full-Stack Developer"
-    org: "Startup Inc"
-    start: "2021-06-01"
-    end: "2022-12-31"
-    summary: "Built and deployed 3 production applications from scratch.
-
-      Implemented CI/CD pipeline reducing deployment time by 60%.
-
-      Led migration from monolith to microservices architecture.\n"
-  - role: "Junior Developer"
-    org: "Web Agency"
-    start: "2020-01-01"
-    end: "2021-05-31"
-    summary: "Developed client websites using React and modern web technologies.
-
-      Participated in code reviews and agile ceremonies.\n"
+  - role: "Senior Behavioral Researcher"
+    org: "Morningstar"
+    start: "2023"
+    end: ""
+    summary: "Led and co-lead approximately 4-6 large scale research initiatives annually, overseeing survey design, data collection, analysis, and synthesis. For each project, partnered closely with 3+ stakeholder groups (Sales, Marketing, Product) to align research questions with business and product needs. Each project also had a strong emphasis on communication, as a result I authored 15+ public facing research articles annually (content generating 200k views in 2025), delievered 4+ webinars per year with 200-500 attendees per event, and presented at ~3 industry and academic conferences annually. "
+  - role: "Behavioral Researcher"
+    org: "Morningstar"
+    start: "2019"
+    end: "2023"
+    summary: "Participated in behavioral consulting projects for product teams such as designing behaviorally-optimized messaging and enrollment flows for a product campaign, resulting in increased enrollment by 217% and driving $10.56M in increamental assets under management. Participated in 4-6 large scale research intiatives annually, taking part in survey design, data collection, analysis, and synthesis. For each project, developed derivative content to reach diverse audiences (co-wrote 4-6 industry whitepapers, wrote 10-15 blog articles, co-developed 5-6 PowerPoint presentations). "
+  - role: "Associate Behavioral Researcher/Marketing Associate"
+    org: "Morningstar"
+    start: "2017"
+    end: "2019"
+    summary: "Collaborating with Marketing to design content focused on behavioral research for a diverse audience, resulting in 10+ blog articles, 4+ PowerPoint presentations, and a five-module behavioral science training program each of which included a presentation, script, recording, and applied exercises. "
 skills:
   - name: "Programming & Analysis"
     items:
@@ -99,6 +90,11 @@ languages:
   - name: "English"
     level: 5
     label: "Native"
-awards: []
+awards:
+  - title: "Best Paper Award"
+    awarder: "Journal of Financial Planning"
+    date: "2020"
+    summary: ""
+    icon: ""
 ids:
   orcid: "0000-0002-6679-1218"
