@@ -20,12 +20,12 @@ sections:
       show_scroll_indicator: true
       typewriter:
         enable: true
-        prefix: "I build"
+        prefix: "I uncover"
         strings:
-          - "full-stack web apps"
-          - "scalable APIs"
-          - "beautiful UIs"
-          - "open source tools"
+          - "actionable insights"
+          - "behavioral drivers of decision-making"
+          - "the 'why' behind the data"
+          - "levers that drive measurable change"
         type_speed: 70
         delete_speed: 40
         pause_time: 2500
@@ -60,12 +60,11 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Full-Stack
-          tag: Full-Stack
-        - name: Frontend
-          tag: Frontend
-        - name: Backend
-          tag: Backend
+        - name: Actionable Insights
+          tag: Actionable-Insights
+        - name: Behavioral Drivers
+          tag: Behavioral-Drivers
+
       default_button_index: 0
       # Archive link auto-shown if more projects exist than 'count' above
       # archive:
@@ -85,49 +84,25 @@ sections:
   - block: tech-stack
     id: skills
     content:
-      title: "Tech Stack"
-      subtitle: "Technologies I use to build things"
+      title: "Skills"
+      subtitle: " "
       categories:
         - name: Languages
           items:
-            - name: TypeScript
-              icon: devicon/typescript
-            - name: JavaScript
-              icon: devicon/javascript
+            - name: R
+              icon: devicon/r
             - name: Python
               icon: devicon/python
-            - name: Go
-              icon: devicon/go
-        - name: Frontend
+
+        - name: Research Tools
           items:
-            - name: React
-              icon: devicon/react
-            - name: Next.js
-              icon: devicon/nextjs
-            - name: Tailwind CSS
-              icon: devicon/tailwindcss
-            - name: Alpine.js
-              icon: devicon/alpinejs
-        - name: Backend
-          items:
-            - name: Node.js
-              icon: devicon/nodejs
-            - name: Express
-              icon: devicon/express
-            - name: PostgreSQL
-              icon: devicon/postgresql
-            - name: Redis
-              icon: devicon/redis
-        - name: DevOps
-          items:
-            - name: Docker
-              icon: devicon/docker
-            - name: AWS
-              icon: devicon/amazonwebservices-wordmark
-            - name: GitHub Actions
-              icon: brands/github
-            - name: Vercel
-              icon: devicon/vercel
+            - name: Prolific
+              icon: devicon/
+            - name: CloudResearch
+              icon: devicon/
+            - name: Qualtrics
+              icon: devicon/
+
     design:
       style: grid
       show_levels: false
@@ -222,7 +197,7 @@ sections:
       text: |-
         I'm always interested in hearing about new projects and opportunities.
         Whether you're looking to hire, collaborate, or just want to say hi, feel free to reach out!
-      email: alex@example.com
+      email: lamassam21@gmail.com
       autolink: true
     design:
       columns: '1'
